@@ -1,5 +1,4 @@
-import { getQueriesForElement } from 'dom-testing-library'
-import { JSX } from 'preact'
+import {getQueriesForElement} from 'dom-testing-library'
 
 export * from 'dom-testing-library'
 
@@ -17,7 +16,7 @@ export function render(
   options?: {
     baseElement?: HTMLElement
     container?: HTMLElement
-  }
+  },
 ): RenderResult
 
 export function cleanup(): void
