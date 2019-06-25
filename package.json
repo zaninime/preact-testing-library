@@ -1,5 +1,5 @@
 {
-  "name": "preact-testing-library",
+  "name": "@testing-library/preact",
   "version": "0.3.0",
   "description": "Simple and complete Preact DOM testing utilities that encourage good testing practices.",
   "main": "dist/index.js",
@@ -113,10 +113,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/antoaravinth/preact-testing-library"
+    "url": "https://github.com/zaninime/preact-testing-library"
   },
   "bugs": {
-    "url": "https://github.com/antoaravinth/preact-testing-library/issues"
+    "url": "https://github.com/zaninime/preact-testing-library/issues"
   },
-  "homepage": "https://github.com/antoaravinth/preact-testing-library#readme"
+  "homepage": "https://github.com/zaninime/preact-testing-library#readme"
 }
